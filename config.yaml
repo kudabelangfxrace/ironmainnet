@@ -39,7 +39,7 @@ line: cn
 extraParams:
   # GPU设备编号
   # GPU device number
-  gpuDevice: 0
+  gpuDevice: 0,1
   # 一次计算个数, 默认 2048000000
   # Calculate the number at a time, the default is 2048000000
   gpuBatchCount: 2048000000
