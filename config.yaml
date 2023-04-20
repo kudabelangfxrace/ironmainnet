@@ -1,6 +1,6 @@
 # miner名称，不填使用电脑名
 # miner name, use the computer name without filling in
-minerName: "rtx3080ti-3
+minerName: "rtx3060-2
 # 在 https://www.hpool.in/center/configuration 找ApiKey
 # Find ApiKey at https://www.hpool.in/center/configuration
 apiKey: "ironfish-35ad-259f-44dc-85ba4d6fa081"
@@ -45,7 +45,7 @@ extraParams:
   gpuBatchCount: 2048000000
   # 并行数，默认是4
   # Parallel number, the default is 4
-  instanceCount: 12
+  instanceCount: 24
   # CPU绑定间隔
   # CPU binding step
   cpuAffinityStep: 0
